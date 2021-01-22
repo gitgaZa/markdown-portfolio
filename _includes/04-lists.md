@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+family
+panda
+music
+me
+love
+art
